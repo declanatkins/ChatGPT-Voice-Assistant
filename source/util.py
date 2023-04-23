@@ -1,5 +1,7 @@
 import os
 import openai
+import numpy as np
+from .vad import VAD
 
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
