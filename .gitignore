@@ -162,3 +162,4 @@ cython_debug/
 .env
 
 exploratory/Data/*
+.DS_Store
