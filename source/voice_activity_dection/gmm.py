@@ -26,6 +26,7 @@ class GMMVAD(VAD):
         self.gmm.means_ = np.load(os.path.join(model_path, 'means.npy'))
         self.gmm.covariances_ = np.load(os.path.join(model_path, 'covariances.npy'))
         self.gmm_speech_cluster = int(np.load(os.path.join(model_path, 'speech_cluster.npy')))
+        self.gmm.precisions_cholesky_ = np.load(os.path.join(model_path, 'precisions_cholesky.npy'))
         self.window_size = window_size
 
     def detect(self, audio: np.ndarray, sample_rate: int) -> np.ndarray:
@@ -35,7 +36,7 @@ class GMMVAD(VAD):
             audio (np.ndarray): Audio signal
 
         Returns:
-            np.ndarray: Voice activity for each window
+            np.ndarray: Voice activity mask
         """
         
         # Split audio into windows
@@ -43,11 +44,14 @@ class GMMVAD(VAD):
         for i in range(0, len(audio), self.window_size):
             windows.append(audio[i:i + self.window_size])
         
-        # Extract features from windows and predict
-        voice_activity = []
+        features = []
         for window in windows:
-            features = extract_features(window, sample_rate)
-            prediction = self.gmm.predict(features)
-            voice_activity.append(int(prediction == self.gmm_speech_cluster))
+            features.append(extract_features(window, sample_rate))
+        voice_activity = self.gmm.predict(np.array(features))
         
-        return np.array(voice_activity)
+        # Covert from windows to signal length predictions
+        voice_activity_signal = np.zeros(len(audio))
+        for i in range(len(windows)):
+            voice_activity_signal[i * self.window_size:(i + 1) * self.window_size] = voice_activity[i]
+        
+        return voice_activity_signal

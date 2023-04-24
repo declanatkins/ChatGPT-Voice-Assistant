@@ -32,8 +32,7 @@ def extract_features(y: np.ndarray, sr: int) -> np.ndarray:
     autocorr = np.correlate(y, y, mode='full')
     autocorr = autocorr[autocorr.size // 2:]
     peaks, _ = find_peaks(autocorr)
-    pitch = sr / peaks[0] if peaks.size > 0 else 0
-
+    pitch = sr / peaks[0] if peaks.size > 0 else np.array([0])
     # Concatenate features
     features = np.concatenate([
         mfcc.flatten(),

@@ -1,3 +1,4 @@
+import json
 from io import BytesIO
 from scipy.io.wavfile import write
 from vosk import Model, KaldiRecognizer
@@ -7,10 +8,13 @@ from .abc import Transcriber
 
 class PretrainedVoskTranscriber(Transcriber):
 
-    def __init__(self, sampling_rate: int=16000):
+    def __init__(self, model_path="", sampling_rate: int=16000):
         super().__init__(sampling_rate=sampling_rate)
 
-        self.model = Model(lang="en-us")
+        if model_path:
+            self.model = Model(model_path)
+        else:
+            self.model = Model(lang="en-us")
         self.rec = KaldiRecognizer(self.model, sampling_rate)
     
     def transcribe(self, audio_data: np.ndarray) -> str:
@@ -30,4 +34,4 @@ class PretrainedVoskTranscriber(Transcriber):
         audio_bytes = buffer.read()
 
         self.rec.AcceptWaveform(audio_bytes)
-        return self.rec.Result()
+        return json.loads(self.rec.Result())['text']

@@ -1,9 +1,13 @@
 import os
 import openai
-import numpy as np
-from .vad import VAD
 
-
+try:
+    with open('.env') as f:
+        for line in f:
+            key, value = line.strip().split('=')
+            os.environ[key] = value
+except FileNotFoundError:
+    raise FileNotFoundError('Please create a .env file in the root directory of the project.')
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
 

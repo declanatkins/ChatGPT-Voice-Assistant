@@ -57,7 +57,7 @@ class EnergyThresholdingVAD(VAD):
             audio (np.ndarray): Audio signal
 
         Returns:
-            np.ndarray: Voice activity for each window
+            np.ndarray: Voice activity mask
         """
 
             # Define human speech frequency range
@@ -82,6 +82,7 @@ class EnergyThresholdingVAD(VAD):
         ])
 
         energy_ratio = energy / total_energy
+        # print(energy_ratio)
         windowed_voice_activity = []
 
         # Compare energy ratio with threshold
@@ -90,5 +91,9 @@ class EnergyThresholdingVAD(VAD):
                 windowed_voice_activity.append(1)  # Speech
             else:
                 windowed_voice_activity.append(0)  # Silent pause
-
-        return np.array(windowed_voice_activity)
+        
+        # Convert from overlapping windows to signal length predictions
+        voice_activity = np.zeros(len(audio))
+        for i in range(len(windowed_voice_activity)):
+            voice_activity[i * hop_length:(i + 1) * hop_length] = windowed_voice_activity[i]
+        return voice_activity
