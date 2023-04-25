@@ -1,91 +1,100 @@
 path|transcript|duration
-fine_tuning_data/recording_sentence_1.wav|hello|1.152018140589569
-fine_tuning_data/recording_sentence_2.wav|hello|1.28
-fine_tuning_data/recording_sentence_3.wav|hello|1.6
-fine_tuning_data/recording_sentence_4.wav|hello|1.5360090702947846
-fine_tuning_data/recording_sentence_5.wav|hello|1.5360090702947846
-fine_tuning_data/recording_sentence_6.wav|There was no hope for him this time it was the third stroke|4.48
-fine_tuning_data/recording_sentence_7.wav|Night after night I had passed the house it was vacation time and studied the lighted square of window and night after night I had found it lighted in the same way faintly and evenly|12.736009070294784
-fine_tuning_data/recording_sentence_8.wav|If he was dead I thought I would see the reflection of candles on the darkened blind for I knew that two candles must be set at the head of a corpse|9.856009070294785
-fine_tuning_data/recording_sentence_9.wav|He had often said to me I am not long for this world and I had thought his words idle|6.4
-fine_tuning_data/recording_sentence_10.wav|Now I knew they were true|2.56
-fine_tuning_data/recording_sentence_11.wav|Every night as I gazed up at the window I said softly to myself the word paralysis|6.1440362811791385
-fine_tuning_data/recording_sentence_12.wav|It had always sounded strangely in my ears like the word gnomon in the Euclid and the word simony in the Catechism|8.96
-fine_tuning_data/recording_sentence_13.wav|But now it sounded to me like the name of some maleficent and sinful being|5.504036281179138
-fine_tuning_data/recording_sentence_14.wav|It filled me with fear and yet I longed to be nearer to it and to look upon its deadly work|6.4
-fine_tuning_data/recording_sentence_15.wav|Old Cotter was sitting at the fire smoking when I came downstairs to supper|4.608027210884353
-fine_tuning_data/recording_sentence_16.wav|While my aunt was ladling out my stirabout he said as if returning to some former remark of his  No I wouldnt say he was exactly  but there was something queer  there was something uncanny about him|13.44
-fine_tuning_data/recording_sentence_17.wav|Ill tell you my opinion  He began to puff at his pipe no doubt arranging his opinion in his mind|6.272018140589569
-fine_tuning_data/recording_sentence_18.wav|Tiresome old fool|1.92
-fine_tuning_data/recording_sentence_19.wav|When we knew him first he used to be rather interesting talking of faints and worms but I soon grew tired of him and his endless stories about the distillery|9.728027210884354
-fine_tuning_data/recording_sentence_20.wav|I have my own theory about it he said|2.56
-fine_tuning_data/recording_sentence_21.wav|I think it was one of those  peculiar cases|2.752018140589569
-fine_tuning_data/recording_sentence_22.wav|But its hard to say  He began to puff again at his pipe without giving us his theory|5.632018140589569
-fine_tuning_data/recording_sentence_23.wav|My uncle saw me staring and said to me  Well so your old friend is gone youll be sorry to hear|6.272018140589569
-fine_tuning_data/recording_sentence_24.wav|Who|1.152018140589569
-fine_tuning_data/recording_sentence_25.wav|said I|1.4080272108843537
-fine_tuning_data/recording_sentence_26.wav|Father Flynn|1.3440362811791384
-fine_tuning_data/recording_sentence_27.wav|Is he dead|1.28
-fine_tuning_data/recording_sentence_28.wav|Mr Cotter here has just told us|2.688027210884354
-fine_tuning_data/recording_sentence_29.wav|He was passing by the house|2.1120181405895693
-fine_tuning_data/recording_sentence_30.wav|I knew that I was under observation so I continued eating as if the news had not interested me|5.888027210884354
-fine_tuning_data/recording_sentence_31.wav|My uncle explained to old Cotter|2.1760090702947847
-fine_tuning_data/recording_sentence_32.wav|The youngster and he were great friends|2.688027210884354
-fine_tuning_data/recording_sentence_33.wav|The old chap taught him a great deal mind you and they say he had a great wish for him|4.736009070294784
-fine_tuning_data/recording_sentence_34.wav|God have mercy on his soul said my aunt piously|3.84
-fine_tuning_data/recording_sentence_35.wav|Old Cotter looked at me for a while|2.8160090702947844
-fine_tuning_data/recording_sentence_36.wav|I felt that his little beady black eyes were examining me but I would not satisfy him by looking up from my plate|7.68
-fine_tuning_data/recording_sentence_37.wav|He returned to his pipe and finally spat rudely into the grate|4.16
-fine_tuning_data/recording_sentence_38.wav|I wouldnt like children of mine he said to have too much to say to a man like that|5.632018140589569
-fine_tuning_data/recording_sentence_39.wav|How do you mean Mr Cotter|1.92
-fine_tuning_data/recording_sentence_40.wav|asked my aunt|1.4080272108843537
-fine_tuning_data/recording_sentence_41.wav|What I mean is said old Cotter its bad for children|4.2240362811791385
-fine_tuning_data/recording_sentence_42.wav|My idea is let a young lad run about and play with young lads of his own age and not be Am I right Jack|6.528027210884353
-fine_tuning_data/recording_sentence_43.wav|Thats my principle too said my uncle|2.688027210884354
-fine_tuning_data/recording_sentence_44.wav|Let him learn to box his corner|2.752018140589569
-fine_tuning_data/recording_sentence_45.wav|Thats what Im always saying to that Rosicrucian there take exercise|4.608027210884353
-fine_tuning_data/recording_sentence_46.wav|Why when I was a nipper every morning of my life I had a cold bath winter and summer|5.952018140589569
-fine_tuning_data/recording_sentence_47.wav|And thats what stands to me now|2.1760090702947847
-fine_tuning_data/recording_sentence_48.wav|Education is all very fine and large Mr Cotter might take a pick of that leg mutton he added to my aunt|7.36
-fine_tuning_data/recording_sentence_49.wav|No no not for me said old Cotter|3.2
-fine_tuning_data/recording_sentence_50.wav|My aunt brought the dish from the safe and put it on the table|4.096009070294785
-fine_tuning_data/recording_sentence_51.wav|But why do you think its not good for children Mr Cotter|3.5840362811791384
-fine_tuning_data/recording_sentence_52.wav|she asked|1.2160090702947846
-fine_tuning_data/recording_sentence_53.wav|Its bad for children said old Cotter because their minds are so impressionable|5.44
-fine_tuning_data/recording_sentence_54.wav|When children see things like that you know it has an effect  I crammed my mouth with stirabout for fear I might give utterance to my anger|8.51201814058957
-fine_tuning_data/recording_sentence_55.wav|Tiresome old rednosed imbecile|3.264036281179138
-fine_tuning_data/recording_sentence_56.wav|It was late when I fell asleep|2.4960090702947846
-fine_tuning_data/recording_sentence_57.wav|Though I was angry with old Cotter for alluding to me as a child I puzzled my head to extract meaning from his unfinished sentences|8.576009070294784
-fine_tuning_data/recording_sentence_58.wav|In the dark of my room I imagined that I saw again the heavy grey face of the paralytic|6.1440362811791385
-fine_tuning_data/recording_sentence_59.wav|I drew the blankets over my head and tried to think of Christmas|4.096009070294785
-fine_tuning_data/recording_sentence_60.wav|But the grey face still followed me|2.88
-fine_tuning_data/recording_sentence_61.wav|It murmured and I understood that it desired to confess something|3.9680272108843537
-fine_tuning_data/recording_sentence_62.wav|I felt my soul receding into some pleasant and vicious region and there again I found it waiting for me|7.296009070294785
-fine_tuning_data/recording_sentence_63.wav|It began to confess to me in a murmuring voice and I wondered why it smiled continually and why the lips were so moist with spittle|9.216009070294785
-fine_tuning_data/recording_sentence_64.wav|But then I remembered that it had died of paralysis and I felt that I too was smiling feebly as if to absolve the simoniac of his sin|9.088027210884354
-fine_tuning_data/recording_sentence_65.wav|The next morning after breakfast I went down to look at the little house in Great Britain Street|5.3120181405895694
-fine_tuning_data/recording_sentence_66.wav|It was an unassuming shop registered under the vague name of Drapery|5.12
-fine_tuning_data/recording_sentence_67.wav|The drapery consisted mainly of childrens bootees and umbrellas and on ordinary days a notice used to hang in the window saying Umbrellas Recovered|10.24
-fine_tuning_data/recording_sentence_68.wav|No notice was visible now for the shutters were up|3.4560090702947845
-fine_tuning_data/recording_sentence_69.wav|A crape bouquet was tied to the doorknocker with ribbon|4.096009070294785
-fine_tuning_data/recording_sentence_70.wav|Two poor women and a telegram boy were reading the card pinned on the crape|5.632018140589569
-fine_tuning_data/recording_sentence_71.wav|I also approached and read       July 1st 1895      The Rev|6.016009070294785
-fine_tuning_data/recording_sentence_72.wav|James Flynn formerly of S Catherines      Church Meath Street aged sixtyfive years|7.424036281179139
-fine_tuning_data/recording_sentence_73.wav|R|1.0240362811791384
-fine_tuning_data/recording_sentence_74.wav|I P  The reading of the card persuaded me that he was dead and I was disturbed to find myself at check|8.256009070294784
-fine_tuning_data/recording_sentence_75.wav|Had he not been dead I would have gone into the little dark room behind the shop to find him sitting in his armchair by the fire nearly smothered in his greatcoat|9.664036281179138
-fine_tuning_data/recording_sentence_76.wav|Perhaps my aunt would have given me a packet of High Toast for him and this present would have roused him from his stupefied doze|7.68
-fine_tuning_data/recording_sentence_77.wav|It was always I who emptied the packet into his black snuffbox for his hands trembled too much to allow him to do this without spilling half the snuff about the floor|9.856009070294785
-fine_tuning_data/recording_sentence_78.wav|Even as he raised his large trembling hand to his nose little clouds of smoke dribbled through his fingers over the front of his coat|7.872018140589569
-fine_tuning_data/recording_sentence_79.wav|It may have been these constant showers of snuff which gave his ancient priestly garments their green faded look for the red handkerchief blackened as it always was with the snuffstains of a week with which he tried to brush away the fallen grains was quite inefficacious|18.688027210884353
-fine_tuning_data/recording_sentence_80.wav|I wished to go in and look at him but I had not the courage to knock|3.84
-fine_tuning_data/recording_sentence_81.wav|I walked away slowly along the sunny side of the street reading all the theatrical advertisements in the shopwindows as I went|8.064036281179138
-fine_tuning_data/recording_sentence_82.wav|I found it strange that neither I nor the day seemed in a mourning mood and I felt even annoyed at discovering in myself a sensation of freedom as if I had been freed from something by his death|12.416009070294784
-fine_tuning_data/recording_sentence_83.wav|I wondered at this for as my uncle had said the night before he had taught me a great deal|5.376009070294785
-fine_tuning_data/recording_sentence_84.wav|He had studied in the Irish college in Rome and he had taught me to pronounce Latin properly|5.504036281179138
-fine_tuning_data/recording_sentence_85.wav|He had told me stories about the catacombs and about Napoleon Bonaparte and he had explained to me the meaning of the different ceremonies of the Mass and of the different vestments worn by the priest|10.624036281179139
-fine_tuning_data/recording_sentence_86.wav|Sometimes he had amused himself by putting difficult questions to me asking me what one should do in certain circumstances or whether such and such sins were mortal or venial or only imperfections|13.568027210884354
-fine_tuning_data/recording_sentence_87.wav|His questions showed me how complex and mysterious were certain institutions of the Church which I had always regarded as the simplest acts|8.448027210884353
-fine_tuning_data/recording_sentence_88.wav|The duties of the priest towards the Eucharist and towards the secrecy of the confessional seemed so grave to me that I wondered how anybody had ever found in himself the courage to undertake them and I was not surprised when he told me that the fathers of the Church had written books as thick as the Post Office Directory and as closely printed as the law notices in the newspaper elucidating all these intricate questions|24.768027210884355
-fine_tuning_data/recording_sentence_89.wav|Often when I thought of this I could make no answer or only a very foolish and halting one upon which he used to smile and nod his head twice or thrice|9.984036281179138
-fine_tuning_data/recording_sentence_90.wav|Sometimes he used to put me through the responses of the Mass which he had made me learn by heart and as I pattered he used to smile pensively and nod his head now and then pushing huge pinches of snuff up each nostril alternately|15.296009070294785
+fine_tuning_data/recording_sentence_49.wav|Why, when I was a nipper every morning of my life I had a cold bath, winter and summer.|6.08
+fine_tuning_data/recording_sentence_61.wav|Though I was angry with old Cotter for alluding to me as a child, I puzzled my head to extract meaning from his unfinished sentences.|8.704036281179139
+fine_tuning_data/recording_sentence_75.wav|I also approached and read.|2.752018140589569
+fine_tuning_data/recording_sentence_74.wav|Two poor women and a telegram boy were reading the card pinned on the crape.|5.056009070294785
+fine_tuning_data/recording_sentence_60.wav|It was late when I fell asleep.|2.432018140589569
+fine_tuning_data/recording_sentence_48.wav|That's what I'm always saying to that Rosicrucian there: take exercise.|4.672018140589569
+fine_tuning_data/recording_sentence_76.wav|The reading of the card persuaded me that he was dead and I was disturbed to find myself at check.|6.4
+fine_tuning_data/recording_sentence_62.wav|In the dark of my room I imagined that I saw again the heavy grey face of the paralytic.|6.464036281179139
+fine_tuning_data/recording_sentence_89.wav|His questions showed me how complex and mysterious were certain institutions of the Church which I had always regarded as the simplest acts.|8.96
+fine_tuning_data/recording_sentence_88.wav|Sometimes he had amused himself by putting difficult questions to me, asking me what one should do in certain circumstances or whether such and such sins were mortal or venial or only imperfections.|12.736009070294784
+fine_tuning_data/recording_sentence_63.wav|I drew the blankets over my head and tried to think of Christmas.|3.9680272108843537
+fine_tuning_data/recording_sentence_77.wav|Had he not been dead I would have gone into the little dark room behind the shop to find him sitting in his arm-chair by the fire, nearly smothered in his great-coat.|10.94403628117914
+fine_tuning_data/recording_sentence_8.wav|There was no hope for him this time: it was the third stroke.|4.416009070294785
+fine_tuning_data/recording_sentence_73.wav|A crape bouquet was tied to the door-knocker with ribbon.|3.9040362811791383
+fine_tuning_data/recording_sentence_67.wav|It began to confess to me in a murmuring voice and I wondered why it smiled continually and why the lips were so moist with spittle.|9.6
+fine_tuning_data/recording_sentence_98.wav|In the evening my aunt took me with her to visit the house of mourning.|4.3520181405895695
+fine_tuning_data/recording_sentence_99.wav|It was after sunset; but the window-panes of the houses that looked to the west reflected the tawny gold of a great bank of clouds.|8.51201814058957
+fine_tuning_data/recording_sentence_66.wav|I felt my soul receding into some pleasant and vicious region; and there again I found it waiting for me.|8.0
+fine_tuning_data/recording_sentence_72.wav|No notice was visible now for the shutters were up.|3.7120181405895694
+fine_tuning_data/recording_sentence_9.wav|Night after night I had passed the house (it was vacation time) and studied the lighted square of window: and night after night I had found it lighted in the same way, faintly and evenly.|11.904036281179138
+fine_tuning_data/recording_sentence_64.wav|But the grey face still followed me.|2.752018140589569
+fine_tuning_data/recording_sentence_70.wav|It was an unassuming shop, registered under the vague name of _Drapery_.|5.632018140589569
+fine_tuning_data/recording_sentence_58.wav|I crammed my mouth with stirabout for fear I might give utterance to my anger.|4.8
+fine_tuning_data/recording_sentence_59.wav|Tiresome old red-nosed imbecile!|3.0080272108843538
+fine_tuning_data/recording_sentence_71.wav|The drapery consisted mainly of children's bootees and umbrellas; and on ordinary days a notice used to hang in the window, saying: _Umbrellas Re-covered_.|11.904036281179138
+fine_tuning_data/recording_sentence_65.wav|It murmured; and I understood that it desired to confess something.|5.3120181405895694
+fine_tuning_data/recording_sentence_16.wav|It filled me with fear, and yet I longed to be nearer to it and to look upon its deadly work.|5.824036281179138
+fine_tuning_data/recording_sentence_17.wav|Old Cotter was sitting at the fire, smoking, when I came downstairs to supper.|4.992018140589569
+fine_tuning_data/recording_sentence_29.wav|"Well, so your old friend is gone, you'll be sorry to hear."|4.2240362811791385
+fine_tuning_data/recording_sentence_15.wav|But now it sounded to me like the name of some maleficent and sinful being.|5.12
+fine_tuning_data/recording_sentence_14.wav|It had always sounded strangely in my ears, like the word gnomon in the Euclid and the word simony in the Catechism.|7.872018140589569
+fine_tuning_data/recording_sentence_28.wav|My uncle saw me staring and said to me:|2.6240362811791385
+fine_tuning_data/recording_sentence_10.wav|If he was dead, I thought, I would see the reflection of candles on the darkened blind for I knew that two candles must be set at the head of a corpse.|9.664036281179138
+fine_tuning_data/recording_sentence_38.wav|The old chap taught him a great deal, mind you; and they say he had a great wish for him."|5.12
+fine_tuning_data/recording_sentence_39.wav|"God have mercy on his soul,” said my aunt piously.|3.9040362811791383
+fine_tuning_data/recording_sentence_11.wav|He had often said to me: "I am not long for this world,” and I had thought his words idle.|6.08
+fine_tuning_data/recording_sentence_13.wav|Every night as I gazed up at the window I said softly to myself the word paralysis.|6.464036281179139
+fine_tuning_data/recording_sentence_12.wav|Now I knew they were true.|2.56
+fine_tuning_data/recording_sentence_23.wav|When we knew him first he used to be rather interesting, talking of faints and worms; but I soon grew tired of him and his endless stories about the distillery.|9.472018140589569
+fine_tuning_data/recording_sentence_37.wav|"The youngster and he were great friends.|2.304036281179138
+fine_tuning_data/recording_sentence_36.wav|My uncle explained to old Cotter.|2.3680272108843536
+fine_tuning_data/recording_sentence_22.wav|Tiresome old fool!|2.048027210884354
+fine_tuning_data/recording_sentence_34.wav|He was passing by the house.|1.9840362811791383
+fine_tuning_data/recording_sentence_20.wav|I'll tell you my opinion.|1.8560090702947847
+fine_tuning_data/recording_sentence_21.wav|He began to puff at his pipe, no doubt arranging his opinion in his mind.|4.928027210884354
+fine_tuning_data/recording_sentence_35.wav|I knew that I was under observation so I continued eating as if the news had not interested me.|5.632018140589569
+fine_tuning_data/recording_sentence_31.wav|"Father Flynn."|1.3440362811791384
+fine_tuning_data/recording_sentence_25.wav|I think it was one of those peculiar cases.|3.1360090702947847
+fine_tuning_data/recording_sentence_19.wav|"No, I wouldn't say he was exactly ... but there was something queer ... there was something uncanny about him.|6.976009070294785
+fine_tuning_data/recording_sentence_18.wav|While my aunt was ladling out my stirabout he said, as if returning to some former remark of his:|6.208027210884354
+fine_tuning_data/recording_sentence_24.wav|I have my own theory about it, he said.|3.0720181405895692
+fine_tuning_data/recording_sentence_30.wav|"Who?” said I.|1.6
+fine_tuning_data/recording_sentence_26.wav|But it's hard to say.|1.7920181405895692
+fine_tuning_data/recording_sentence_32.wav|"Is he dead?"|1.3440362811791384
+fine_tuning_data/recording_sentence_33.wav|"Mr Cotter here has just told us.|2.56
+fine_tuning_data/recording_sentence_27.wav|He began to puff again at his pipe without giving us his theory.|3.7760090702947844
+fine_tuning_data/recording_sentence_7.wav|Who is the president of the United States?|3.3280272108843536
+fine_tuning_data/recording_sentence_68.wav|But then I remembered that it had died of paralysis and I felt that I too was smiling feebly as if to absolve the simoniac of his sin.|10.24
+fine_tuning_data/recording_sentence_40.wav|Old Cotter looked at me for a while.|2.3680272108843536
+fine_tuning_data/recording_sentence_54.wav|My aunt brought the dish from the safe and put it on the table.|3.264036281179138
+fine_tuning_data/recording_sentence_83.wav|I walked away slowly along the sunny side of the street, reading all the theatrical advertisements in the shop-windows as I went.|8.128027210884353
+fine_tuning_data/recording_sentence_97.wav|But I could not remember the end of the dream.|2.88
+fine_tuning_data/recording_sentence_96.wav|I felt that I had been very far away, in some land where the customs were strange—in Persia, I thought.|7.616009070294784
+fine_tuning_data/recording_sentence_82.wav|I wished to go in and look at him but I had not the courage to knock.|4.416009070294785
+fine_tuning_data/recording_sentence_55.wav|"But why do you think it's not good for children, Mr Cotter?” she asked.|4.16
+fine_tuning_data/recording_sentence_41.wav|I felt that his little beady black eyes were examining me but I would not satisfy him by looking up from my plate.|7.36
+fine_tuning_data/recording_sentence_69.wav|The next morning after breakfast I went down to look at the little house in Great Britain Street.|5.44
+fine_tuning_data/recording_sentence_6.wav|What is the capital of France?|2.56
+fine_tuning_data/recording_sentence_4.wav|Hello|1.4720181405895691
+fine_tuning_data/recording_sentence_57.wav|When children see things like that, you know, it has an effect.|3.52
+fine_tuning_data/recording_sentence_43.wav|"How do you mean, Mr Cotter?” asked my aunt.|2.8160090702947844
+fine_tuning_data/recording_sentence_94.wav|As I walked along in the sun I remembered old Cotter's words and tried to remember what had happened afterwards in the dream.|7.04
+fine_tuning_data/recording_sentence_80.wav|Even as he raised his large trembling hand to his nose little clouds of smoke dribbled through his fingers over the front of his coat.|9.152018140589568
+fine_tuning_data/recording_sentence_81.wav|It may have been these constant showers of snuff which gave his ancient priestly garments their green faded look for the red handkerchief, blackened, as it always was, with the snuff-stains of a week, with which he tried to brush away the fallen grains, was quite inefficacious.|19.008027210884354
+fine_tuning_data/recording_sentence_95.wav|I remembered that I had noticed long velvet curtains and a swinging lamp of antique fashion.|6.208027210884354
+fine_tuning_data/recording_sentence_42.wav|He returned to his pipe and finally spat rudely into the grate. "I wouldn't like children of mine,” he said, "to have too much to say to a man like that."|9.728027210884354
+fine_tuning_data/recording_sentence_56.wav|"It's bad for children,” said old Cotter, "because their minds are so impressionable.|4.8
+fine_tuning_data/recording_sentence_5.wav|Tell me an interesting fact.|2.3680272108843536
+fine_tuning_data/recording_sentence_1.wav|Hello|1.4720181405895691
+fine_tuning_data/recording_sentence_52.wav|Mr Cotter might take a pick of that leg mutton,” he added to my aunt.|4.16
+fine_tuning_data/recording_sentence_46.wav|"That's my principle, too,” said my uncle.|2.688027210884354
+fine_tuning_data/recording_sentence_91.wav|Often when I thought of this I could make no answer or only a very foolish and halting one upon which he used to smile and nod his head twice or thrice.|11.328027210884354
+fine_tuning_data/recording_sentence_85.wav|I wondered at this for, as my uncle had said the night before, he had taught me a great deal.|6.336009070294785
+fine_tuning_data/recording_sentence_84.wav|I found it strange that neither I nor the day seemed in a mourning mood and I felt even annoyed at discovering in myself a sensation of freedom as if I had been freed from something by his death.|12.288027210884353
+fine_tuning_data/recording_sentence_90.wav|The duties of the priest towards the Eucharist and towards the secrecy of the confessional seemed so grave to me that I wondered how anybody had ever found in himself the courage to undertake them; and I was not surprised when he told me that the fathers of the Church had written books as thick as the _Post Office Directory_ and as closely printed as the law notices in the newspaper, elucidating all these intricate questions.|25.856009070294785
+fine_tuning_data/recording_sentence_47.wav|"Let him learn to box his corner.|2.3680272108843536
+fine_tuning_data/recording_sentence_53.wav|"No, no, not for me,” said old Cotter.|2.752018140589569
+fine_tuning_data/recording_sentence_2.wav|Hello|1.5360090702947846
+fine_tuning_data/recording_sentence_45.wav|My idea is: let a young lad run about and play with young lads of his own age and not be ... Am I right, Jack?"|8.064036281179138
+fine_tuning_data/recording_sentence_51.wav|Education is all very fine and large.|3.5840362811791384
+fine_tuning_data/recording_sentence_79.wav|It was always I who emptied the packet into his black snuff-box for his hands trembled too much to allow him to do this without spilling half the snuff about the floor.|10.624036281179139
+fine_tuning_data/recording_sentence_86.wav|He had studied in the Irish college in Rome and he had taught me to pronounce Latin properly.|5.696009070294784
+fine_tuning_data/recording_sentence_92.wav|Sometimes he used to put me through the responses of the Mass which he had made me learn by heart; and, as I pattered, he used to smile pensively and nod his head, now and then pushing huge pinches of snuff up each nostril alternately.|17.02403628117914
+fine_tuning_data/recording_sentence_93.wav|When he smiled he used to uncover his big discoloured teeth and let his tongue lie upon his lower lip, a habit which had made me feel uneasy in the beginning of our acquaintance before I knew him well.|12.608027210884353
+fine_tuning_data/recording_sentence_87.wav|He had told me stories about the catacombs and about Napoleon Bonaparte, and he had explained to me the meaning of the different ceremonies of the Mass and of the different vestments worn by the priest.|11.52
+fine_tuning_data/recording_sentence_78.wav|Perhaps my aunt would have given me a packet of High Toast for him and this present would have roused him from his stupefied doze.|8.128027210884353
+fine_tuning_data/recording_sentence_50.wav|And that's what stands to me now.|2.1760090702947847
+fine_tuning_data/recording_sentence_44.wav|"What I mean is,” said old Cotter, "it's bad for children.|4.2240362811791385
+fine_tuning_data/recording_sentence_3.wav|Hello|1.4720181405895691

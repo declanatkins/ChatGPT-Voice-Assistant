@@ -39,7 +39,7 @@ class SpeechRecorder:
             sample_rate: int=16000,
             seconds_per_block: float=2,
             min_speech_seconds: float=0.3,
-            max_silence_seconds: float=0.6,
+            max_silence_seconds: float=1,
         ):
         """
         Initializes SpeechRecorder
@@ -233,6 +233,6 @@ if __name__ == '__main__':
             sf.write(f'debug/{i}.wav', segment, 16000)
             if i > 10:
                 recorder.stop()
-    except KeyboardInterrupt:
+    except:
         recorder.stop()
         raise

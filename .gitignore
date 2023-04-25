@@ -163,3 +163,5 @@ cython_debug/
 
 exploratory/Data/*
 .DS_Store
+vosk-model*
+*.zip

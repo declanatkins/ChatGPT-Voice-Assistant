@@ -1,6 +1,6 @@
 import numpy as np
 import whisper
-from .abc import Transcriber
+from .abc import AudioDataType, Transcriber
 
 
 class PretrainedWhisperTranscriber(Transcriber):
@@ -26,3 +26,7 @@ class PretrainedWhisperTranscriber(Transcriber):
         """
 
         return self.model.transcribe(audio_data)['text']
+
+    @property
+    def audio_data_type(self) -> AudioDataType:
+        return AudioDataType.NUMPY
