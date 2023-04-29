@@ -20,11 +20,17 @@ To run the program, run the following command:
 python -m source.app
 ```
 
+When running the assistant will wait for you to say "hello", it will then respond and start listening for your query. Once you stop talking the query recording will complete. The assistant will then query the ChatGPT API and respond with the answer.
+Once you are finished with the app, it will wait for you to say "finish", at which point it will stop listening and terminate.
+
 Before doing this however, you will need to create a .env file, matching the template and supply an API key for the
 ChatGPT API.
 
 ## Exploratory Directory
 
 The exploratory directory contains notebooks and data that I used in building this application.
-Of particular interest is the `Voice-Activity-Detection.ipynb` notebook, which contains the code
-for the VAD model that I used in the application.
+To run these you will first have to download some data using the following command:
+
+```bash
+python exploratory/download_files.py
+```
