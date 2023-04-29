@@ -11,6 +11,8 @@ from .util import query_chatgpt
 
 ACTIVATION_PHRASE = 'Hello. How can I help you?'
 CLOSING_PHRASE = 'Goodbye.'
+GETTING_RESPONSE_PHRASE = 'Got it. Please wait while I get a response for you.'
+DIDNT_GET_AUDIO_PHRASE = "Sorry, I didn't catch that."
 
 
 class AssistantApp:
@@ -99,25 +101,30 @@ class AssistantApp:
             query = self.get_speech_query()
             if query:
                 print(f'Query was: {query}')
+                self.synthesizer.say(GETTING_RESPONSE_PHRASE)
                 chat_gpt_response = query_chatgpt(query)
                 print(f'ChatGPT response: {chat_gpt_response}')
                 self.synthesizer.say(chat_gpt_response)
             else:
-                self.synthesizer.say("Sorry, I didn't catch that")
+                self.synthesizer.say(DIDNT_GET_AUDIO_PHRASE)
 
 
 if __name__ == "__main__":
     from .voice_activity_dection.xgb import XGBVAD
-    from .voice_activity_dection.energy_thresholding import EnergyThresholdingVAD
     from .speech_to_text.pretrained_whisper import PretrainedWhisperTranscriber
     from .text_to_speech.pretrained_coqui import PretrainedCoquiSynthesizer
-    from .text_to_speech.remote_coqui import RemoteCoquiSynthesizer
-    from .speech_to_text.remote_whisper import RemoteWhisperTranscriber
 
     vad = XGBVAD()
-    # vad = EnergyThresholdingVAD()
-    transcriber = RemoteWhisperTranscriber('http://0.0.0.0:8000/transcribe/whisper')
-    synthesizer = RemoteCoquiSynthesizer('http://0.0.0.0:8000/synthesize/coqui')
+
+    transcriber = PretrainedWhisperTranscriber()
+    synthesizer = PretrainedCoquiSynthesizer(
+        presynthesised_phrases=[
+            ACTIVATION_PHRASE,
+            CLOSING_PHRASE,
+            GETTING_RESPONSE_PHRASE,
+            DIDNT_GET_AUDIO_PHRASE,
+        ]
+    )
 
     assistant = AssistantApp(transcriber, synthesizer, vad)
     assistant.run()
